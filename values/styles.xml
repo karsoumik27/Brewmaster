@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#795548</item>
+        <item name="colorPrimaryDark">#5D4037</item>
+        <item name="colorAccent">#3E2723</item>
+        <item name="android:actionMenuTextColor">#FFFFFF</item>
+    </style>
+
+
+    <style name="Headers">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#D50000</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>
